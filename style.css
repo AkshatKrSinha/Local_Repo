@@ -1,0 +1,13 @@
+#KaifButton{
+    padding-top : 10px;
+    padding-bottom: 10px;
+    padding-left: 50px;
+    padding-right: 50px;
+    color: white;
+    background-color: #0f0f0f;
+    border-style: none;
+    border-radius: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 500;
+    cursor: pointer;
+}
